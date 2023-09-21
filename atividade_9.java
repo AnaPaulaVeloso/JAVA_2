@@ -1,4 +1,4 @@
-public class BuscaNumeroNoArray {
+public class main {
     public static void main(String[] args) {
     Random rand = new Random();
     int[] numeros = new int[25];
@@ -27,3 +27,4 @@ public class BuscaNumeroNoArray {
     
         scanner.close(); 
     }
+}
